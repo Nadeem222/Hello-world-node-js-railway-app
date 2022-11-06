@@ -1,0 +1,24 @@
+{
+  "name": "hello_wold_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadeem222/Hello_Wold_nodejs.git"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadeem222/Hello_Wold_nodejs/issues"
+  },
+  "homepage": "https://github.com/Nadeem222/Hello_Wold_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
