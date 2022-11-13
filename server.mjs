@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000
 
 app.get('/name', (req, res) => {
   console.log(`${req.ip}is asking for water`)
-  res.send('nadeem')
+  res.send('nadeem Hakeem')
 })
 
 app.get('/water', (req, res) => {
